@@ -3,8 +3,8 @@
 
 
 "@noliaki/css-cubic-bezier-variable@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@noliaki/css-cubic-bezier-variable/-/css-cubic-bezier-variable-1.0.1.tgz#86dda3f56fb7c0013ef6e76c7176aae15d92515a"
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@noliaki/css-cubic-bezier-variable/-/css-cubic-bezier-variable-1.1.0.tgz#d091a3de908f9d038c57236705c6e9a3afd3e9bb"
 
 abbrev@1:
   version "1.1.1"
