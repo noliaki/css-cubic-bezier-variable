@@ -1,0 +1,81 @@
+@import 'ease-variables';
+
+.easeInSine {
+  transition: all 400ms $easeInSine;
+}
+.easeOutSine {
+  transition: all 400ms $easeOutSine;
+}
+.easeInOutSine {
+  transition: all 400ms $easeInOutSine;
+}
+
+.easeInQuad {
+  transition: all 400ms $easeInQuad;
+}
+.easeOutQuad {
+  transition: all 400ms $easeOutQuad;
+}
+.easeInOutQuad {
+  transition: all 400ms $easeInOutQuad;
+}
+
+.easeInCubic {
+  transition: all 400ms $easeInCubic;
+}
+.easeOutCubic {
+  transition: all 400ms $easeOutCubic;
+}
+.easeInOutCubic {
+  transition: all 400ms $easeInOutCubic;
+}
+
+.easeInQuart {
+  transition: all 400ms $easeInQuart;
+}
+.easeOutQuart {
+  transition: all 400ms $easeOutQuart;
+}
+.easeInOutQuart {
+  transition: all 400ms $easeInOutQuart;
+}
+
+.easeInCirc {
+  transition: all 400ms $easeInCirc;
+}
+.easeOutCirc {
+  transition: all 400ms $easeOutCirc;
+}
+.easeInOutCirc {
+  transition: all 400ms $easeInOutCirc;
+}
+
+.easeInQuint {
+  transition: all 400ms $easeInQuint;
+}
+.easeOutQuint {
+  transition: all 400ms $easeOutQuint;
+}
+.easeInOutQuint {
+  transition: all 400ms $easeInOutQuint;
+}
+
+.easeInExpo {
+  transition: all 400ms $easeInExpo;
+}
+.easeOutExpo {
+  transition: all 400ms $easeOutExpo;
+}
+.easeInOutExpo {
+  transition: all 400ms $easeInOutExpo;
+}
+
+.easeInBack {
+  transition: all 400ms $easeInBack;
+}
+.easeOutBack {
+  transition: all 400ms $easeOutBack;
+}
+.easeInOutBack {
+  transition: all 400ms $easeInOutBack;
+}

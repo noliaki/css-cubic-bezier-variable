@@ -2,9 +2,6 @@
   "name": "@noliaki/css-cubic-bezier-variable",
   "version": "1.0.1",
   "description": "css cubic bezier variables",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/noliaki/css-cubic-bezier-variable.git"

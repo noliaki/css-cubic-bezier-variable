@@ -1,0 +1,13 @@
+{
+  "name": "examples",
+  "dependencies": {
+    "@noliaki/css-cubic-bezier-variable": "^1.0.1",
+    "node-sass": "^4.10.0",
+    "stylus": "^0.54.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build:stylus": "stylus ./src/style.styl --out ./dist --include ./node_modules/@noliaki/css-cubic-bezier-variable/stylus/",
+    "build:scss": "node-sass ./src/style.scss ./dist/style.css --include-path ./node_modules/@noliaki/css-cubic-bezier-variable/scss/"
+  }
+}
